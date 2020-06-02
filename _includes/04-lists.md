@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Type A
+  * Type a
+  * Type b
+- Type B
